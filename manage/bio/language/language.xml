@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    
+    <!--  Check Sessions -->
+    <detail>
+        <variable>checkSession</variable>
+        <th>TRUE</th>
+        <en>TRUE</en>
+    </detail>
+    <!--  Check Sessions -->
+    
+    <!--  Renlive -->
+    <detail>
+        <variable>Renlive</variable>
+        <th>Renlive</th>
+        <en>Renlive</en>
+    </detail>
+    <!--  Renlive -->
+    
+	
+	
+	
+	
+	
+    <!--  Title -->
+    <detail>
+        <variable>title</variable>
+        <th>Biotec Thailand produces and distributes medical and aesthetic devices, cosmetic and medical lasers and cosmeceuticals.</th>
+        <en>Biotec Thailand produces and distributes medical and aesthetic devices, cosmetic and medical lasers and cosmeceuticals.</en>
+    </detail>
+    <!--  Title -->
+    
+
+    <!--  Other -->
+    <detail>
+        <variable>browse</variable>
+        <th>เรียกดู...</th>
+        <en>Browse...</en>
+    </detail>
+    <detail>
+        <variable>info</variable>
+        <th>ข้อมูล </th>
+        <en>Info </en>
+    </detail>	
+    <detail>
+        <variable>btn_confirm</variable>
+        <th>ยืนยัน</th>
+        <en>Confirm</en>
+    </detail>
+    <detail>
+        <variable>add</variable>
+        <th>เพิ่มข้อมูล</th>
+        <en>Add Data</en> 
+    </detail>
+    <detail>
+        <variable>close</variable>
+        <th>ปิด</th>
+        <en>Close</en>
+    </detail>
+    <detail>
+        <variable>confirmDelete</variable>
+        <th>คุณต้องการลบข้อมูลใช่หรือไม่ ?</th>
+        <en>Do you want to delete Information ?</en>
+    </detail>
+    <detail>
+        <variable>active</variable>
+        <th>ใช้งาน</th>
+        <en>Active</en> 
+    </detail>
+    <detail>
+        <variable>inactive</variable>
+        <th>ไม่ใช้งาน</th>
+        <en>Inactive</en> 
+    </detail>
+    <detail>
+        <variable>btn_ok</variable>
+        <th>ตกลง</th>
+        <en>OK</en> 
+    </detail>
+    <detail>
+        <variable>btn_cancel</variable>
+        <th>ยกเลิก</th>
+        <en>Cancel</en> 
+    </detail>
+    <detail>
+        <variable>label_status</variable>
+        <th>สถานะ</th>
+        <en>Status</en> 
+    </detail>
+    <detail>
+        <variable>edit_info</variable>
+        <th>แก้ไขข้อมูล</th>
+        <en>Edit Info</en> 
+    </detail>
+    <detail>
+        <variable>lb_help_slide</variable>
+        <th>หมายเหตุ : การแสดงสไลด์หน้าเว็บไซต์จะเรียงจากลำดับและชื่อรูปภาพ</th>
+        <en>Note: The slide show Sort by index and picture name.</en> 
+    </detail>
+    <detail>
+        <variable>lb_help_content</variable>
+        <th>หมายเหตุ : การแสดงเนื้อหาหน้าเว็บไซต์จะเรียงจากลำดับและชื่อรูปภาพ และจำโชว์เฉพาะข้อมูล 4 ลำดับแรก</th>
+        <en>Note: The Contents Sort by index and picture name. And Show 1-4 Info.</en> 
+    </detail>
+    <detail>
+        <variable>_enter</variable>
+        <th>คลิก</th>
+        <en>Enter</en> 
+    </detail>
+    <detail>
+        <variable>_subscript</variable>
+        <th>สมัครับข่าวสาร</th>
+        <en>Subscribe</en> 
+    </detail>
+    <detail>
+        <variable>_readmore</variable>
+        <th>อ่านเพิ่มเติม</th>
+        <en>Read more</en> 
+    </detail>
+    <detail>
+        <variable>_top_content</variable>
+        <th>เนื้อหาเว็บไซต์ส่วนบน</th>
+        <en>Content Top</en> 
+    </detail>
+    <detail>
+        <variable>_bottom_content</variable>
+        <th>เนื้อหาเว็บไซต์ส่วนล่าง</th>
+        <en>Content Bottom</en> 
+    </detail>
+    <detail>
+        <variable>btn_next</variable>
+        <th>ถัดไป</th>
+        <en>Next</en> 
+    </detail> 
+    <detail>
+        <variable>btn_previous</variable>
+        <th>ย้อนกลับ</th>
+        <en>Prevoius</en> 
+    </detail> 
+    
+    
+    <!--  Other -->
+	
+    <!--  month -->
+    <detail>
+        <variable>m_01</variable>
+        <th>มกราคม</th>
+        <en>January</en>
+    </detail>
+    <detail>
+        <variable>m_02</variable>
+        <th>กุมภาพันธ์</th>
+        <en>February</en>
+    </detail>
+    <detail>
+        <variable>m_03</variable>
+        <th>มีนาคม</th>
+        <en>March</en>
+    </detail>
+    <detail>
+        <variable>m_04</variable>
+        <th>เมษายน</th>
+        <en>April</en>
+    </detail>
+    <detail>
+        <variable>m_05</variable>
+        <th>พฤษภาคม</th>
+        <en>May</en>
+    </detail>
+    <detail>
+        <variable>m_06</variable>
+        <th>มิถุนายน</th>
+        <en>June</en>
+    </detail>
+    <detail>
+        <variable>m_07</variable>
+        <th>กรกฎาคม</th>
+        <en>July</en>
+    </detail>
+    <detail>
+        <variable>m_08</variable>
+        <th>สิงหาคม</th>
+        <en>August</en>
+    </detail>
+    <detail>
+        <variable>m_09</variable>
+        <th>กันยายน</th>
+        <en>September</en>
+    </detail>
+    <detail>
+        <variable>m_10</variable>
+        <th>ตุลาคม</th>
+        <en>October</en>
+    </detail>
+    <detail>
+        <variable>m_11</variable>
+        <th>พฤศจิกายน</th>
+        <en>November</en>
+    </detail>
+    <detail>
+        <variable>m_12</variable>
+        <th>ธันวาคม</th>
+        <en>December</en>
+    </detail>
+	
+    <!--  month -->
+	
+	
+	
+    <!--  Menu Biotec -->
+    <detail>
+        <variable>home</variable>
+        <th>หน้าหลัก</th>
+        <en>Home</en>
+    </detail>
+    <detail>
+        <variable>about</variable>
+        <th>เกี่ยวกับเรา</th>
+        <en>ABOUT</en>
+    </detail>
+    <detail>
+        <variable>renlive</variable>
+        <th>Renlive</th>
+        <en>Renlive</en>
+    </detail>
+    <detail>
+        <variable>ui_element</variable>
+        <th>จัดการหน้าเว็บไซต์</th>
+        <en>UI Element</en> 
+    </detail>  
+    <detail>
+        <variable>ui_slide</variable>
+        <th>สไลด์</th>
+        <en>Slide</en> 
+    </detail> 
+    <detail>
+        <variable>ui_index</variable>
+        <th>หน้าแรกเว็บไซต์</th>
+        <en>index page</en> 
+    </detail>  
+    <detail>
+        <variable>devices</variable>
+        <th>อุปกรณ์</th>
+        <en>Devices</en>
+    </detail>
+    <detail>
+        <variable>cosmeceuticals</variable>
+        <th>เวชสำอาง</th>
+        <en>Cosmeceuticals</en>
+    </detail>
+    <detail>
+        <variable>main_cosmeceuticals</variable>
+        <th>หน้าหลัก เวชสำอาง</th>
+        <en>Main Cosmeceuticals</en>
+    </detail>
+    <detail>
+        <variable>newsletter</variable>
+        <th>จดหมายข่าว</th>
+        <en>Newsletter</en>
+    </detail>
+    <detail>
+        <variable>news</variable>
+        <th>ข่าว</th>
+        <en>News</en>
+    </detail>
+    <detail>
+        <variable>magazine</variable>
+        <th>นิตยสาร</th>
+        <en>magazine</en>
+    </detail>
+    <detail>
+        <variable>events</variable>
+        <th>เหตุการณ์</th>
+        <en>events</en>
+    </detail>
+    <detail>
+        <variable>products</variable>
+        <th>สินค้า</th>
+        <en>products</en>
+    </detail>
+    <detail>
+        <variable>press</variable>
+        <th>Press</th>
+        <en>Press</en>
+    </detail>
+    <detail>
+        <variable>contacts</variable>
+        <th>ติดต่อเรา</th>
+        <en>Contacts</en>
+    </detail>
+    <detail>
+        <variable>our_customers</variable>
+        <th>ลูกค้าของเรา</th>
+        <en>Our Customers</en>
+    </detail>
+    <detail>
+        <variable>rigenera</variable>
+        <th>Rigenera</th>
+        <en>Rigenera</en>
+    </detail>
+    <detail>
+        <variable>dry_sensitive</variable>
+        <th>Dry Sensitive</th>
+        <en>Dry Sensitive</en>
+    </detail>
+    <detail>
+        <variable>combination_oily</variable>
+        <th>Combination Oily</th>
+        <en>Combination Oily</en>
+    </detail>
+    <detail>
+        <variable>flexi</variable>
+        <th>Flexi</th>
+        <en>Flexi</en>
+    </detail>
+    <detail>
+        <variable>bodyline</variable>
+        <th>Bodyline</th>
+        <en>Bodyline</en>
+    </detail>
+    <detail>
+        <variable>sun_care</variable>
+        <th>Sun Care</th>
+        <en>Sun Care</en>
+    </detail>
+    <detail>
+        <variable>herbs</variable>
+        <th>Herbs Tea and Supplements</th>
+        <en>Herbs Tea and Supplements</en>
+    </detail>
+    <detail>
+        <variable>medical</variable>
+        <th>Medical</th>
+        <en>Medical</en>
+    </detail>
+    <detail>
+        <variable>aesthetic</variable>
+        <th>Aesthetic</th>
+        <en>Aesthetic</en>
+    </detail>
+    <detail>
+        <variable>welcom</variable>
+        <th>ยินดีต้อนรับ</th>
+        <en>Welcom</en>
+    </detail>
+    <detail>
+        <variable>biothailand</variable>
+        <th>ไบโอเทคอิตาเลีย (ประเทศไทย)</th>
+        <en>BiotecItalia Thailand</en>
+    </detail>
+    <detail>
+        <variable>logout</variable>
+        <th>ออกจากระบบ</th>
+        <en>Log out</en>
+    </detail>
+    <detail>
+        <variable>profile</variable>
+        <th>ข้อมูลส่วนตัว</th>
+        <en>Profile</en>
+    </detail>
+    <detail>
+        <variable>help</variable>
+        <th>ช่วยเหลือ</th>
+        <en>Help</en>
+    </detail>
+    <detail>
+        <variable>webmail</variable>
+        <th>เว็บเมล์</th>
+        <en>Web Mail</en>
+    </detail>
+    <!--  Menu Biotec -->
+    
+    
+    <!--  footer  -->
+    <detail>
+        <variable>foot_tel</variable>
+        <th>เบอรโทรศัพท์</th>
+        <en>Tel</en>
+    </detail>
+    <detail>
+        <variable>foot_email</variable>
+        <th>อีเมล</th>
+        <en>Email</en>
+    </detail>
+    <detail>
+        <variable>foot_fax</variable>
+        <th>แฟ๊กซ์</th>
+        <en>Fax</en>
+    </detail>
+    
+    
+    <detail>
+        <variable>foot_content</variable>
+        <th>© Biotec Italia (Thailand) 2017 | บริษัท ไบโอเทคอิตาเลีย (ประเทศไทย) จำกัด , ชั้น 12A , อาคารสยามทาวเวอร์, 989 ถนนพระราม 1, ปทุมวัน กรุงเทพมหานคร 10330 ประเทศไทย </th>
+        <en>© Biotec Italia (Thailand) 2017 | Biotec Italia (Thailand) Co.,Ltd. , 12A Floor, Siam Tower, 989 Rama I Road, Pathumwan, Bangkok 10330 Thailand. </en>
+       
+    </detail>
+    <!--  footer  -->
+	
+        
+    <!--  profile -->
+    <detail>
+        <variable>edit_profile</variable>
+        <th>แก้ไขข้อมูลส่วนตัว</th>
+        <en>Edit Profile</en>
+    </detail>
+    
+    <detail>
+        <variable>lb_pf_name</variable>
+        <th>ชื่อ</th>
+        <en>First Name</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_lastname</variable>
+        <th>นามสกุล</th>
+        <en>Last Name</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_pass_old</variable>
+        <th>รหัสผ่าน เดิม</th>
+        <en>Password</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_pass</variable>
+        <th>รหัสผ่าน ใหม่</th>
+        <en>New Password</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_pass_confirm</variable>
+        <th>ยืนยันรหัสผ่าน ใหม่</th>
+        <en>Confirm New Password</en>
+    </detail>
+    <detail>
+        <variable>lb_pf_img</variable>
+        <th>รูปภาพ</th>
+        <en>Image</en>
+    </detail>
+        
+    <!--  profile -->    
+        
+        
+        
+        
+        
+        
+        
+	
+    <!--  Page About  -->
+    <detail>
+        <variable>page_about_H1</variable>
+        <th>วิสัยทัศน์</th>
+        <en>Our Values</en>
+    </detail>
+    <detail>
+        <variable>page_about_D1_01</variable>
+        <th>Biotec Italia strives to achieve unsurpassed excellence and reliability in manufacturing and supplying high quality industrial products and services to its customers, clients and partners. To reach this goal and assure “total customer satisfaction”, all Biotec Italia employees are challenged to achieve the highest quality level in their daily tasks. Our company is never satisfied with existing quality standards.</th>
+        <en>Biotec Italia strives to achieve unsurpassed excellence and reliability in manufacturing and supplying high quality industrial products and services to its customers, clients and partners. To reach this goal and assure “total customer satisfaction”, all Biotec Italia employees are challenged to achieve the highest quality level in their daily tasks. Our company is never satisfied with existing quality standards.</en>
+    </detail>
+    <detail>
+        <variable>page_about_D1_02</variable>
+        <th>The concepts of nonstop improvement, accountability and clear measurability are constantly implemented to assure ongoing quality enhancement. In addition, we require all our partners and vendors to fully participate with us in supporting this Quality Mission. All aspects of our business, from initial product development until the final delivery of goods and customer service, will be examined to assure compliance with our Quality Mission and Medical ISO 9001:2008 and ISO 13485:2012 standards.</th>
+        <en>The concepts of nonstop improvement, accountability and clear measurability are constantly implemented to assure ongoing quality enhancement. In addition, we require all our partners and vendors to fully participate with us in supporting this Quality Mission. All aspects of our business, from initial product development until the final delivery of goods and customer service, will be examined to assure compliance with our Quality Mission and Medical ISO 9001:2008 and ISO 13485:2012 standards.</en>
+    </detail>
+    <detail>
+        <variable>page_about_D1_03</variable>
+        <th>Being in a competitive marketplace involves the responsibility to pursue vigorously this Quality Mission and to achieve continuous improvement, in order to deliver unsurpassed value to our customers, profit for our shareholders, a stable and pleasant work environment for our employees.</th>
+        <en>Being in a competitive marketplace involves the responsibility to pursue vigorously this Quality Mission and to achieve continuous improvement, in order to deliver unsurpassed value to our customers, profit for our shareholders, a stable and pleasant work environment for our employees.</en>
+    </detail>
+
+    <detail>
+        <variable>page_about_H2</variable>
+        <th>เกี่ยวกับเรา</th>
+        <en>About Us</en>
+    </detail>
+    <detail>
+        <variable>page_about_D2_01</variable>
+        <th>Biotec Italia is a diversified Aesthetic and Well-being company, focused on improving people’s lives through aesthetic innovations. Headquartered in Italy with a staff of about 50 employees, Biotec Italia operates in more than 50 countries worldwide.</th>
+        <en>Biotec Italia is a diversified Aesthetic and Well-being company, focused on improving people’s lives through aesthetic innovations. Headquartered in Italy with a staff of about 50 employees, Biotec Italia operates in more than 50 countries worldwide.</en>
+    </detail>
+    <detail>
+        <variable>page_about_D2_02</variable>
+        <th>The company has continued to grow every year and is a market leader in clinically-proven aesthetic technology and skin health products. Over the years, the company has developed primarily for the aesthetics, dermatology, plastic surgery and the related beauty and health markets. Through combining strong know-how and clinical expertise, Biotec Italia aims to create advanced aesthetic solutions for common and visible skin conditions in adult skin, including premature ageing, photodamage, hyperpigmentation (irregular or patchy discoloration of the skin), acne, sun damage, rosacea and soft tissue deficits, such as fine lines and wrinkles.</th>
+        <en>The company has continued to grow every year and is a market leader in clinically-proven aesthetic technology and skin health products. Over the years, the company has developed primarily for the aesthetics, dermatology, plastic surgery and the related beauty and health markets. Through combining strong know-how and clinical expertise, Biotec Italia aims to create advanced aesthetic solutions for common and visible skin conditions in adult skin, including premature ageing, photodamage, hyperpigmentation (irregular or patchy discoloration of the skin), acne, sun damage, rosacea and soft tissue deficits, such as fine lines and wrinkles.</en>
+    </detail>
+    <detail>
+        <variable>page_about_D2_03</variable>
+        <th>Our broad portfolio of innovative products includes a variety of aesthetic solutions: laser and light systems, radiofrequency, low and high frequency ultrasounds, skin peeling technology, needle free meso-therapy, bio-stimulating currents and advanced skin care formulations.</th>
+        <en>Our broad portfolio of innovative products includes a variety of aesthetic solutions: laser and light systems, radiofrequency, low and high frequency ultrasounds, skin peeling technology, needle free meso-therapy, bio-stimulating currents and advanced skin care formulations.</en>
+    </detail>
+	
+    <!--  Page About  -->
+    
+    
+    <!-- Page admin press -->
+    <detail>
+        <variable>press_tb_tr_subject_th</variable>
+        <th>หัวข้อภาษาไทย</th>
+        <en>Subject TH</en> 
+    </detail>
+    <detail>
+        <variable>press_tb_tr_subject_en</variable>
+        <th>หัวข้อภาษาอังกฤษ</th>
+        <en>Subject EN</en> 
+    </detail>
+    <detail>
+        <variable>press_tb_tr_date</variable>
+        <th>วันที่</th>
+        <en>Date</en> 
+    </detail>
+    <detail>
+        <variable>press_tb_tr_img</variable>
+        <th>รูปภาพหน้าปก</th>
+        <en>Cover picture</en> 
+    </detail>
+    <detail>
+        <variable>press_tb_tr_file</variable>
+        <th>ไฟล์</th>
+        <en>File</en> 
+    </detail>
+    <detail>
+        <variable>press_tb_tr_status</variable>
+        <th>สถานะ</th>
+        <en>Status</en> 
+    </detail>
+    <detail>
+        <variable>press_tb_tr_edit</variable>
+        <th>แก้ไข</th>
+        <en>Edit</en> 
+    </detail>
+    <detail>
+        <variable>press_tb_tr_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en> 
+    </detail>
+    <detail>
+        <variable>press_tb_tr_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en> 
+    </detail>
+    <detail>
+        <variable>press_active</variable>
+        <th>ใช้งาน</th>
+        <en>Active</en> 
+    </detail>
+    <detail>
+        <variable>press_inactive</variable>
+        <th>ไม่ใช้งาน</th>
+        <en>Inactive</en> 
+    </detail>
+    <detail>
+        <variable>press_ok</variable>
+        <th>ตกลง</th>
+        <en>Ok</en> 
+    </detail>
+    <detail>
+        <variable>press_cancel</variable>
+        <th>ยกเลิก</th>
+        <en>Cancel</en> 
+    </detail>
+    <detail>
+        <variable>press_pic</variable>
+        <th>รูป</th>
+        <en>Picture</en> 
+    </detail>
+    <detail>
+        <variable>press_file</variable>
+        <th>ไฟล์</th>
+        <en>File</en> 
+    </detail>
+    <detail>
+        <variable>press_file_edit</variable>
+        <th>ไฟล์ปัจจุบัน</th>
+        <en>Current File</en> 
+    </detail>
+    
+    
+    
+    <!-- Page admin press -->
+    
+    
+    <!-- Page press -->
+    <detail>
+        <variable>press_add</variable>
+        <th>เพิ่มข้อมูล</th>
+        <en>Add Data</en> 
+    </detail>
+  
+    <detail>
+        <variable>press_h1_msg</variable>
+        <th>PRESS</th>
+        <en>PRESS</en> 
+    </detail>
+    <detail>
+        <variable>download</variable>
+        <th>ดาวน์โหลด PDF</th>
+        <en>Download PDF</en> 
+    </detail>
+    
+    <!-- Page press -->
+    
+    <!-- Page Our Customers -->
+
+  
+    <detail>
+        <variable>customers_h1_msg</variable>
+        <th>ลูกค้าของเรา</th>
+        <en>Our Customers</en> 
+    </detail>
+    <detail>
+        <variable>go_website</variable>
+        <th>เว็บไซต์ลูกค้า </th>
+        <en>Website Customers</en> 
+    </detail>
+    
+    <!-- Page Our Customers -->
+
+    <!-- Page dashboard -->
+    <detail>
+        <variable>lb_box1_msg</variable>
+        <th>สมาชิกทั้งหมดที่สมัครับข่าวสาร</th>
+        <en>All members Subscribe.</en> 
+    </detail>
+    <detail>
+        <variable>lb_box2_msg</variable>
+        <th>ข้อมูลการติดต่อทั้งหมด</th>
+        <en>All contact information.</en> 
+    </detail>
+    <detail>
+        <variable>lb_box3_msg</variable>
+        <th>จำนวนอุปกรณ์ทั้งหมด</th>
+        <en>All Devices.</en> 
+    </detail>
+    <detail>
+        <variable>lb_box4_msg</variable>
+        <th>จำนวนเวชสำอางทั้งหมด</th>
+        <en>All Cosmeceuticals.</en> 
+    </detail>
+    
+    <detail>
+        <variable>lb_morris</variable>
+        <th>สถิติข้อมูลการติดต่อในช่วง 10 วัน</th>
+        <en>Statistical info contacts last 10 days.</en> 
+    </detail>
+    <detail>
+        <variable>lb_morris_qty</variable>
+        <th>ปริมาณการติดต่อ</th>
+        <en>Contact quantity.</en> 
+    </detail>
+    <detail>
+        <variable>lb_donut_1</variable>
+        <th>จำนวนสมาชิกที่สมัครับข่าวสาร</th>
+        <en>Members subscribe</en> 
+    </detail>
+    <detail>
+        <variable>lb_donut_header</variable>
+        <th>จำนวนสมาชิกที่สมัครับข่าวสารโดยแยกตามประเภท (สถานะใช้งาน)</th>
+        <en>Members subscribe by categories</en> 
+    </detail>
+    
+    
+    <!-- Page dashboard -->
+
+    <!-- Page contact -->
+    <detail>
+        <variable>cont_name</variable>
+        <th>ชื่อ</th>
+        <en>Name</en> 
+    </detail>
+    <detail>
+        <variable>cont_lastname</variable>
+        <th>นามสกุล</th>
+        <en>Last Name</en> 
+    </detail>
+    <detail>
+        <variable>cont_email</variable>
+        <th>อีเมล</th>
+        <en>E-mail Address</en> 
+    </detail>
+    <detail>
+        <variable>cont_phone</variable>
+        <th>เบอร์โทรศัพท์</th>
+        <en>Phone Number</en> 
+    </detail>
+    <detail>
+        <variable>cont_city</variable>
+        <th>เมือง</th>
+        <en>City</en> 
+    </detail>
+    <detail>
+        <variable>cont_country</variable>
+        <th>ประเทศ</th>
+        <en>Country</en> 
+    </detail>
+    <detail>
+        <variable>cont_subject</variable>
+        <th>หัวข้อ</th>
+        <en>Subject</en> 
+    </detail>
+    <detail>
+        <variable>cont_message</variable>
+        <th>ข้อความ</th>
+        <en>Message</en> 
+    </detail>
+    <detail>
+        <variable>cont_send</variable>
+        <th>ส่งข้อความ</th>
+        <en>Send Message</en> 
+    </detail>
+    <detail>
+        <variable>cont_call</variable>
+        <th>โทร</th>
+        <en>Call</en> 
+    </detail>
+    <detail>
+        <variable>cont_tel</variable>
+        <th>เบอรโทรศัพท์</th>
+        <en>Tel</en>
+    </detail>
+    <detail>
+        <variable>cont_email</variable>
+        <th>อีเมล</th>
+        <en>Email</en>
+    </detail>
+    <detail>
+        <variable>cont_fax</variable>
+        <th>แฟ๊กซ์</th>
+        <en>Fax</en>
+    </detail>
+    
+    <detail>
+        <variable>cont_add_l1</variable>
+        <th>บริษัท ไบโอเทคอิตาเลีย (ประเทศไทย) จำกัด</th>
+        <en>Biotec Italia (Thailand) Co.,Ltd.</en>
+    </detail>
+    <detail>
+        <variable>cont_add_l2</variable>
+        <th>ชั้น 12A , อาคารสยามทาวเวอร์ </th>
+        <en>12A Floor, Siam Tower</en>
+    </detail>
+    <detail>
+        <variable>cont_add_l3</variable>
+        <th>989 ถนนพระราม 1, ปทุมวัน</th>
+        <en>989 Rama I Road, Pathumwan</en>
+    </detail>
+    <detail>
+        <variable>cont_add_l4</variable>
+        <th>กรุงเทพมหานคร 10330</th>
+        <en>Bangkok 10330</en>
+    </detail>
+    <detail>
+        <variable>cont_add_l5</variable>
+        <th>ประเทศไทย</th>
+        <en>Thailand</en>
+    </detail>
+    <!-- /Page contact -->
+
+    <!-- Page admin contact -->
+    <detail>
+        <variable>tb_col_date</variable>
+        <th>วันที่</th>
+        <en>Date</en> 
+    </detail>
+    <detail>
+        <variable>tb_col_subject</variable>
+        <th>เรื่องที่ติดต่อ</th>
+        <en>Subject</en> 
+    </detail>
+    <detail>
+        <variable>tb_col_name</variable>
+        <th>ชื่อ</th>
+        <en>Name</en> 
+    </detail>
+    <detail>
+        <variable>tb_col_phone</variable>
+        <th>เบอร์โทร</th>
+        <en>Number</en> 
+    </detail>
+    <detail>
+        <variable>tb_col_email</variable>
+        <th>อีเมล์</th>
+        <en>Email</en> 
+    </detail>
+    <detail>
+        <variable>tb_col_status</variable>
+        <th>สถานะ</th>
+        <en>status</en> 
+    </detail>
+    <detail>
+        <variable>tb_col_detail</variable>
+        <th>รายละเอียด</th>
+        <en>Detail</en> 
+    </detail>
+    <detail>
+        <variable>tb_col_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en> 
+    </detail>
+    
+    <detail>
+        <variable>contacts_fullname</variable>
+        <th>ชื่อ-นามสกุล</th>
+        <en>Fullname</en> 
+    </detail>
+    <detail>
+        <variable>contacts_city</variable>
+        <th>เมือง</th>
+        <en>City</en> 
+    </detail>
+    <detail>
+        <variable>contacts_country</variable>
+        <th>ประเทศ</th>
+        <en>Country</en> 
+    </detail>
+    <detail>
+        <variable>contacts_info</variable>
+        <th>ข้อมูลผู้ติดต่อ</th>
+        <en>Contacts Info</en> 
+    </detail>
+    <detail>
+        <variable>contacts_time</variable>
+        <th>วันเวลาที่ทำการติดต่อ</th>
+        <en>Data Time</en> 
+    </detail>
+    <!-- /Page admin contact -->
+	
+    <!-- Page admin our customers -->
+    <detail>
+        <variable>tb_customer_col_name_th</variable>
+        <th>ชื่อภาษาไทย</th>
+        <en>Name TH</en> 
+    </detail>
+    <detail>
+        <variable>tb_customer_col_name_en</variable>
+        <th>ชื่อภาษาอังกฤษ</th>
+        <en>Name EN</en> 
+    </detail>
+    <detail>
+        <variable>tb_customer_col_url</variable>
+        <th>ลิงค์</th>
+        <en>Link URL</en> 
+    </detail>
+    
+    <detail>
+        <variable>tb_customer_col_img</variable>
+        <th>โลโก้</th>
+        <en>Logo</en> 
+    </detail>
+    <detail>
+        <variable>tb_customer_col_status</variable>
+        <th>สถานะ</th>
+        <en>status</en> 
+    </detail>
+    
+    <detail>
+        <variable>tb_customer_col_edit</variable>
+        <th>แก้ไข</th>
+        <en>Edit</en> 
+    </detail>
+    <detail>
+        <variable>tb_customer_col_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en> 
+    </detail>
+    
+   
+    <!-- /Page admin our customers -->
+        
+        
+        
+        
+        
+        
+    <!-- sendMail -->
+    <detail>
+        <variable>sendmail_dear</variable>
+        <th>เรียนคุณ</th>
+        <en>Dear</en> 
+    </detail>
+    
+    <detail>
+        <variable>sendmail_end</variable>
+        <th>ด้วยความเคารพ.</th>
+        <en>Best regards.</en> 
+    </detail>
+    
+    <detail>
+        <variable>sendmail_recieve_auto_customer</variable>
+        <th>เราได้รับข้อความจากคุณเรียบร้อยแล้ว เราจะตอบคุณโดยเร็วที่สุดเท่าที่เป็นไปได้ ขอบคุณค่ะ</th>
+        <en>Thank you. Your message has been successfully sent. We will reply you as soon as possible.</en> 
+    </detail>
+    
+    <detail>
+        <variable>sendmail_recieve_auto_customer_subject</variable>
+        <th>Biotecitalia-thailand.com: ข้อความตอบกลับอัตโนมัติ ทางเราได้รับข้อความติดต่อจากคุณแล้ว</th>
+        <en>Biotecitalia-thailand.com: Automatic notice of we have received from you.</en> 
+    </detail>
+    
+    <!-- sendMail -->
+	
+    <!-- webmail -->
+    <detail>
+        <variable>txt_email</variable>
+        <th>อีเมล์</th>
+        <en>Email</en> 
+    </detail>
+    <detail>
+        <variable>txt_pass</variable>
+        <th>รหัสผ่าน</th>
+        <en>password</en> 
+    </detail>
+    <detail>
+        <variable>btn_loginmail</variable>
+        <th>เข้าใช้งานเว็บเมล์ z.com </th>
+        <en>Access Webmail to z.com</en> 
+    </detail>
+    <detail>
+        <variable>txt_webmail_support</variable>
+        <th>คู่มือสำหรับการติดตั้งและใช้งานบนอุปกรณ์ต่างๆ</th>
+        <en>Guide for installation and use on device.</en> 
+    </detail>
+    <!-- webmail -->
+	
+    <!-- newsletter -->
+    <detail>
+        <variable>lb_newsletter</variable>
+        <th>จดหมายข่าว</th>
+        <en>Newsletter</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_name</variable>
+        <th>ชื่อ</th>
+        <en>Name</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_email</variable>
+        <th>อีเมล์</th>
+        <en>Email address</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_email_confirm</variable>
+        <th>ยืนยันอีเมล์</th>
+        <en>Confirm your email address</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_category</variable>
+        <th>หมวดหมู่</th>
+        <en>Category</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_city</variable>
+        <th>เมือง</th>
+        <en>City</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_town</variable>
+        <th>ตัวเมือง</th>
+        <en>Town</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_country</variable>
+        <th>ประเทศ</th>
+        <en>Country</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_tel</variable>
+        <th>โทรศัพท์</th>
+        <en>Phone</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_website</variable>
+        <th>เว็บไซต์</th>
+        <en>Website</en> 
+    </detail>
+    
+    <detail>
+        <variable>lb_newsletter_category_all</variable>
+        <th>ทุกหมวดหมู่</th>
+        <en>All Category</en> 
+    </detail>
+    
+    <detail>
+        <variable>lb_newsletter_category_1</variable>
+        <th>ส่วนตัวบุคคล</th>
+        <en>Private-person</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_category_2</variable>
+        <th>ความงาม</th>
+        <en>Beautician</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_category_3</variable>
+        <th>ตัวแทนจัดจำหน่าย</th>
+        <en>Distributor</en> 
+    </detail>
+    <detail>
+        <variable>lb_newsletter_category_4</variable>
+        <th>นายแพทย์</th>
+        <en>Doctor</en> 
+    </detail>
+    <detail>
+        <variable>btn_newsletter</variable>
+        <th>ตกลง</th>
+        <en>OK</en> 
+    </detail>
+    
+    <detail>
+        <variable>btn_create_email</variable>
+        <th>สร้างอีเมล์เพื่อแจ้งข่าวสารโปรโมชั่น</th>
+        <en>Create email updates for promotion.</en> 
+    </detail>
+    <detail>
+        <variable>lb_detail_email</variable>
+        <th>เนื้อหาอีเมล์และโปรโมชั่น</th>
+        <en>Email content and promotions.</en> 
+    </detail>
+    <detail>
+        <variable>lb_subject_email</variable>
+        <th>หัวข้ออีเมล์</th>
+        <en>Email Subject</en> 
+    </detail>
+    
+    <!-- newsletter -->    
+        
+    <!-- UI Element --> 
+    <detail>
+        <variable>tab_index</variable>
+        <th>สไลด์หน้าแรก</th>
+        <en>Slide HOME</en> 
+    </detail>   
+    <detail>
+        <variable>tab_about</variable>
+        <th>สไลด์หน้าเกี่ยวกับเรา</th>
+        <en>Slide ABOUT</en> 
+    </detail>   
+    <detail>
+        <variable>tab_contacts</variable>
+        <th>สไลด์หน้าติดต่อเรา</th>
+        <en>Slide CONTACTS</en> 
+    </detail>  
+    
+    
+    <detail>
+        <variable>col_slide_img</variable>
+        <th>รูปภาพ</th>
+        <en>Image Name</en> 
+    </detail>  
+    <detail>
+        <variable>col_slide_index</variable>
+        <th>ลำดับ</th>
+        <en>Index</en> 
+    </detail>  
+ 
+    <detail>
+        <variable>col_slide_status</variable>
+        <th>สถานะ</th>
+        <en>Status</en> 
+    </detail>  
+    <detail>
+        <variable>col_slide_edit</variable>
+        <th>แก้ไข</th>
+        <en>Edit</en> 
+    </detail> 
+    <detail>
+        <variable>col_slide_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en> 
+    </detail>
+    <detail>
+        <variable>btn_create_for_home</variable>
+        <th>สร้างสไลด์สำหรักหน้าแรก</th>
+        <en>Create a slide for page home.</en> 
+    </detail> 
+    <detail>
+        <variable>btn_create_for_about</variable>
+        <th>สร้างสไลด์สำหรักหน้าเกี่ยวกับเรา</th>
+        <en>Create a slide for page about.</en> 
+    </detail> 
+    <detail>
+        <variable>btn_create_for_contacts</variable>
+        <th>สร้างสไลด์สำหรักหน้าติดต่อเรา</th>
+        <en>Create a slide for page contacts.</en> 
+    </detail> 
+    
+    
+    
+    
+    <detail>
+        <variable>col_index_img</variable>
+        <th>รูปภาพ</th>
+        <en>Image Name</en> 
+    </detail>  
+    <detail>
+        <variable>col_index_topic</variable>
+        <th>หัวข้อ</th>
+        <en>Topic</en> 
+    </detail>  
+    <detail>
+        <variable>col_index_topic_th</variable>
+        <th>หัวข้อภาษาไทย</th>
+        <en>Topic TH.</en> 
+    </detail>  
+    <detail>
+        <variable>col_index_topic_en</variable>
+        <th>หัวข้อภาษาอังกฤษ</th>
+        <en>Topic EN.</en> 
+    </detail>  
+    <detail>
+        <variable>col_index_url</variable>
+        <th>ลิงค์</th>
+        <en>URL.</en> 
+    </detail>
+    <detail>
+        <variable>col_index_detail_th</variable>
+        <th>รายละเอียดภาษาไทย</th>
+        <en>Detail TH.</en> 
+    </detail>
+    <detail>
+        <variable>col_index_detail_en</variable>
+        <th>รายละเอียดภาษาอังกฤษ</th>
+        <en>Detail EN.</en> 
+    </detail>
+    <detail>
+        <variable>col_index_index</variable>
+        <th>ลำดับ</th>
+        <en>Index</en> 
+    </detail>  
+    <detail>
+        <variable>col_index_status</variable>
+        <th>สถานะ</th>
+        <en>Status</en> 
+    </detail>  
+    <detail>
+        <variable>col_index_edit</variable>
+        <th>แก้ไข</th>
+        <en>Edit</en> 
+    </detail> 
+    <detail>
+        <variable>col_index_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en> 
+    </detail>
+    
+    <detail>
+        <variable>btn_index_top</variable>
+        <th>สร้างเนื้อหาส่วนบน</th>
+        <en>Create Top Content.</en> 
+    </detail>
+    <detail>
+        <variable>btn_index_bottom</variable>
+        <th>สร้างเนื้อหาส่วนล่าง</th>
+        <en>Create Bottom Content.</en> 
+    </detail>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- UI Element -->
+        
+    <!--    cosmeceuticals    -->
+    <detail>
+        <variable>btn_show_prd</variable>
+        <th>แสดงผลิตภัณฑ์</th>
+        <en>Show Products</en> 
+    </detail>
+    <detail>
+        <variable>btn_show_detail</variable>
+        <th>แสดงรายละเอียด</th>
+        <en>Show Details</en> 
+    </detail> 
+    
+    
+    <detail>
+        <variable>cosme_image</variable>
+        <th>รูปภาพ</th>
+        <en>Image</en> 
+    </detail>    
+        
+    <detail>
+        <variable>cosme_subject_th</variable>
+        <th>หัวข้อภาษาไทย</th>
+        <en>Subject TH</en> 
+    </detail>  
+    <detail>
+        <variable>cosme_subject_en</variable>
+        <th>หัวข้อภาษาอังกฤษ</th>
+        <en>Subject EN</en> 
+    </detail>  
+    <detail>
+        <variable>cosme_subject_light_th</variable>
+        <th>หัวข้อไฮไลท์ภาษาไทย</th>
+        <en>Subject HighLight TH</en> 
+    </detail>  
+    <detail>
+        <variable>cosme_subject_light_en</variable>
+        <th>หัวข้อไฮไลท์ภาษาอังกฤษ</th>
+        <en>Subject HighLight EN</en> 
+    </detail> 
+    <detail>
+        <variable>cosme_detail_th</variable>
+        <th>เนื้อหาภาษาไทย</th>
+        <en>Detail TH</en> 
+    </detail>  
+    <detail>
+        <variable>cosme_detail_en</variable>
+        <th>เนื้อหาภาษาอังกฤษ</th>
+        <en>Detail EN</en> 
+    </detail>  
+    <detail>
+        <variable>cosme_list</variable>
+        <th>รายการ</th>
+        <en>List</en> 
+    </detail>  
+    <detail>
+        <variable>cosme_edit</variable>
+        <th>แก้ไข</th>
+        <en>Edit</en> 
+    </detail>  
+    <detail>
+        <variable>cosme_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en> 
+    </detail>  
+    <detail>
+        <variable>txt_title_cosme_add</variable>
+        <th>เพิ่มข้อมูล</th>
+        <en>Add Data</en> 
+    </detail> 
+    <detail>
+        <variable>txt_title_cosme_edit</variable>
+        <th>แก้ไขข้อมูล</th>
+        <en>Edit Data</en> 
+    </detail> 
+    
+    <detail>
+        <variable>txt_title_cosme_edit</variable>
+        <th>แก้ไขข้อมูล</th>
+        <en>Edit Data</en> 
+    </detail>    
+        
+        
+        
+        
+    <!--    cosmeceuticals    -->   
+        
+        
+    <!-- devices -->
+    <detail>
+        <variable>main_devices</variable>
+        <th>หน้าหลัก อุปกรณ์</th>
+        <en>Main Devices</en> 
+    </detail>    
+    <detail>
+        <variable>devices_image</variable>
+        <th>รูปภาพ</th>
+        <en>Image</en> 
+    </detail>    
+        
+    <detail>
+        <variable>devices_subject_th</variable>
+        <th>หัวข้อภาษาไทย</th>
+        <en>Subject TH</en> 
+    </detail>  
+    <detail>
+        <variable>devices_subject_en</variable>
+        <th>หัวข้อภาษาอังกฤษ</th>
+        <en>Subject EN</en> 
+    </detail>  
+    <detail>
+        <variable>devices_subject_light_th</variable>
+        <th>หัวข้อไฮไลท์ภาษาไทย</th>
+        <en>Subject HighLight TH</en> 
+    </detail>  
+    <detail>
+        <variable>devices_subject_light_en</variable>
+        <th>หัวข้อไฮไลท์ภาษาอังกฤษ</th>
+        <en>Subject HighLight EN</en> 
+    </detail> 
+    <detail>
+        <variable>devices_detail_th</variable>
+        <th>เนื้อหาภาษาไทย</th>
+        <en>Detail TH</en> 
+    </detail>  
+    <detail>
+        <variable>devices_detail_en</variable>
+        <th>เนื้อหาภาษาอังกฤษ</th>
+        <en>Detail EN</en> 
+    </detail>  
+    <detail>
+        <variable>devices_list</variable>
+        <th>รายการ</th>
+        <en>List</en> 
+    </detail>  
+    <detail>
+        <variable>devices_edit</variable>
+        <th>แก้ไข</th>
+        <en>Edit</en> 
+    </detail>  
+    <detail>
+        <variable>devices_delete</variable>
+        <th>ลบ</th>
+        <en>Delete</en> 
+    </detail>      
+    <detail>
+        <variable>device_main</variable>
+        <th>ส่วนหลัก</th>
+        <en>Main</en> 
+    </detail> 
+    <detail>
+        <variable>device_image</variable>
+        <th>รูปภาพ</th>
+        <en>Image</en> 
+    </detail>    
+    <detail>
+        <variable>device_tech</variable>
+        <th>เทคโนโลยี</th>
+        <en>Technology</en> 
+    </detail>    
+    <detail>
+        <variable>device_proc</variable>
+        <th>กระบวนการ</th>
+        <en>Procedures</en> 
+    </detail> 
+    <detail>
+        <variable>device_technical</variable>
+        <th>ข้อมูลทางเทคนิค</th>
+        <en>Technical Data</en> 
+    </detail>   
+    <detail>
+        <variable>device_public</variable>
+        <th>สิ่งพิมพ์</th>
+        <en>Publications</en> 
+    </detail>  
+    <detail>
+        <variable>device_video</variable>
+        <th>วิดิโอ</th>
+        <en>Video</en> 
+    </detail>
+    <detail>
+        <variable>device_step</variable>
+        <th>ขั้นตอน</th>
+        <en>Step</en> 
+    </detail> 
+    <detail>
+        <variable>device_browse</variable>
+        <th>เลือกไฟล์ ...</th>
+        <en>Browse File ...</en> 
+    </detail> 
+    <detail>
+        <variable>device_image_header</variable>
+        <th>รูปภาพส่วนบน</th>
+        <en>Image Header</en> 
+    </detail> 
+    <detail>
+        <variable>device_image_detail</variable>
+        <th>รูปภาพส่วนล่าง</th>
+        <en>Image Detail</en> 
+    </detail> 
+    <detail>
+        <variable>device_before</variable>
+        <th>รูปภาพก่อนใช้</th>
+        <en>Before Image</en> 
+    </detail> 
+    <detail>
+        <variable>device_after</variable>
+        <th>รูปภาพหลังใช้</th>
+        <en>After Image</en> 
+    </detail> 
+    <detail>
+        <variable>device_detail_th</variable>
+        <th>เนื้อหาภาษาไทย</th>
+        <en>Detail TH</en> 
+    </detail> 
+    <detail>
+        <variable>device_detail_en</variable>
+        <th>เนื้อหาภาษาอังกฤษ</th>
+        <en>Detail EN</en> 
+    </detail> 
+
+    <detail>
+        <variable>device_d_msg1</variable>
+        <th>Biotec Italia offers a complete range of professional equipments to treat face and body imperfections. Our electro-medical equipments are conceived  for  medical doctors and represent the new generation of aesthetic treatments in terms of efficacy and safety.</th>
+        <en>Biotec Italia offers a complete range of professional equipments to treat face and body imperfections. Our electro-medical equipments are conceived  for  medical doctors and represent the new generation of aesthetic treatments in terms of efficacy and safety.</en> 
+    </detail>
+    <detail>
+        <variable>device_d_msg2</variable>
+        <th>Scientific research, innovation and Made in Italy mark guarantee the high quality of Biotec Italia products.</th>
+        <en>Scientific research, innovation and Made in Italy mark guarantee the high quality of Biotec Italia products.</en> 
+    </detail>
+    <detail>
+        <variable>device_d_msg3</variable>
+        <th>Close collaboration with industry professionals, engineers, doctors and cosmetologists;</th>
+        <en>Close collaboration with industry professionals, engineers, doctors and cosmetologists;</en> 
+    </detail>
+    <detail>
+        <variable>device_d_msg4</variable>
+        <th>Scientific research and technology;</th>
+        <en>Scientific research and technology;</en> 
+    </detail>
+    <detail>
+        <variable>device_d_msg5</variable>
+        <th>Design and Production Made in Italy;</th>
+        <en>Design and Production Made in Italy;</en> 
+    </detail>
+    <detail>
+        <variable>device_d_msg6</variable>
+        <th>Costant training and courses;</th>
+        <en>Costant training and courses;</en> 
+    </detail>
+    <detail>
+        <variable>device_d_msg7</variable>
+        <th>After sales assistance;</th>
+        <en>After sales assistance;</en> 
+    </detail>
+    <detail>
+        <variable>device_d_msg8</variable>
+        <th>Medical Device Certification.</th>
+        <en>Medical Device Certification.</en> 
+    </detail>
+    
+    <detail>
+        <variable>device_d_msg8</variable>
+        <th>Medical Device Certification.</th>
+        <en>Medical Device Certification.</en> 
+    </detail>
+    
+    <detail>
+        <variable>device_msg_contact</variable>
+        <th>สำหรับข้อมูลเพิ่มเติมโปรดติดต่อเรา</th>
+        <en>For further information, please contact us.</en> 
+    </detail>
+    
+    <detail>
+        <variable>device_msg_video</variable>
+        <th>รับชมวิดีโอแนะนำ</th>
+        <en>Watch the Video.</en> 
+    </detail>
+    
+    
+    
+    
+    
+    
+    <!--  devices -->   
+     
+    <!--news-->  
+    <detail>
+        <variable>news</variable>
+        <th>ข่าว</th>
+        <en>News</en> 
+    </detail>  
+    
+    <detail>
+        <variable>magazine</variable>
+        <th>นิตยสาร</th>
+        <en>Magazine</en> 
+    </detail>  
+    
+        
+    <detail>
+        <variable>event</variable>
+        <th>เหตุการณ์</th>
+        <en>Event</en> 
+    </detail>  
+    <detail>
+        <variable>detail_en</variable>
+        <th>รายละเอียดภาษาอังกฤษ</th>
+        <en>Detail English language</en> 
+    </detail>  
+    <detail>
+        <variable>detail_th</variable>
+        <th>รายละเอียดภาษาไทย</th>
+        <en>Detail Thai language</en> 
+    </detail>  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    <!-- Response Code -->
+    <detail>
+        <variable>cd_0000</variable>
+        <th>0000,ทำรายการสำเร็จ</th>
+        <en>0000,Transaction Success</en> 
+    </detail>
+    <detail>
+        <variable>cd_2001</variable>
+        <th>2001,ทำรายการไม่สำเร็จ</th>
+        <en>2001,Transaction Not Success</en> 
+    </detail>
+    <detail>
+        <variable>cd_2099</variable>
+        <th>2099,กรุณาระบุข้อมูล field ด้วยค่ะ</th>
+        <en>2099,Please write your field required.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2098</variable>
+        <th>2098,กรุณาระบุข้อมูล field โดยมีความยาวไม่เกิน xxx ตัวอักษร</th>
+        <en>2098,Please write your field limit xxx lenght.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2200</variable>
+        <th>2200,ไม่มีข้อมูลใดๆ</th>
+        <en>2200,No information</en> 
+    </detail>
+    <detail>
+        <variable>cd_2201</variable>
+        <th>2201,ข้อมูลไม่สมบูรณ์</th>
+        <en>2201,Data Incomplete</en> 
+    </detail>
+    <detail>
+        <variable>cd_2203</variable>
+        <th>2202,กรุณาใส่วันที่</th>
+        <en>2202,Please Enter Date Time</en> 
+    </detail>
+    <detail>
+        <variable>cd_2203</variable>
+        <th>2203,ใส่ได้เฉาะไฟล์ PDF เท่านั้น</th>
+        <en>2203,Insert Only PDF</en> 
+    </detail>
+    <detail>
+        <variable>cd_2204</variable>
+        <th>2204,ใส่ได้เฉพาะไฟล์ JPG หรือ PNG เท่านั้น</th>
+        <en>2204,Insert Only JPG or PNG</en> 
+    </detail>
+    <detail>
+        <variable>cd_2205</variable>
+        <th>2205,กรุณากรอก หัวข้อภาษาไทย</th>
+        <en>2205,Please enter Subject TH.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2206</variable>
+        <th>2206,กรุณากรอก หัวข้อภาษาอังกฤษ</th>
+        <en>2206,Please enter Subject EN.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_2208</variable>
+        <th>2208,กรุณา เลือกวันที่</th>
+        <en>2208,Please Select Date</en> 
+    </detail>
+    <detail>
+        <variable>cd_2207</variable>
+        <th>2207,กรุณา อัพโหลดไฟล์รูปภาพ </th>
+        <en>2207,Please Upload images file.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2209</variable>
+        <th>2209,กรุณา อัพโหลดไฟล์ PDF</th>
+        <en>2209,Please Upload PDF file.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_2210</variable>
+        <th>2210,ประเภทไฟล์ที่ทำการอัพโหลดไม่ถูกต้อง </th>
+        <en>2210,Type the file uploaded incorrect.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2211</variable>
+        <th>2211,ขนาดของไฟล์รูปภาพไม่อยู่ในขนาดที่กำหนด </th>
+        <en>2211,the size of the image file size is not specified.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2212</variable>
+        <th>2212,ขนาดของไฟล์เอกสารไม่อยู่ในขนาดที่กำหนด </th>
+        <en>2212,the size of the document file size is not specified.</en> 
+    </detail>
+    
+    
+    <detail>
+        <variable>cd_2301</variable>
+        <th>2301,กรุณาระบุชื่อภาษาไทย </th>
+        <en>2301,Please enter Name TH.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2302</variable>
+        <th>2302,กรุณาระบุชื่อภาษาอังกฤษ </th>
+        <en>2302,Please enter Name EN.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2303</variable>
+        <th>2303,กรุณาระบุลิงค์เว็บไซต์ </th>
+        <en>2303,Please enter URL Website.</en> 
+    </detail>
+    <detail>
+        <variable>cd_2304</variable>
+        <th>2304,กรุณา อัพโหลดไฟล์โลโก้ </th>
+        <en>2304,Please Upload logo image.</en> 
+    </detail>
+    
+    
+    
+    
+    
+    <detail>
+        <variable>cd_4001</variable>
+        <th>4001,ชื่อผู้เข้าใช้งานสามารถใส่ได้เฉพาะ [a-zA-z0-9] เท่านั้น</th>
+        <en>4001,Username Identify [a-zA-z0-9] only.</en> 
+    </detail>
+    <detail>
+        <variable>cd_4002</variable>
+        <th>4002,รหัสผ่านสำหรับเข้าใช้งานสามารถใส่ได้เฉพาะ [a-zA-z0-9] เท่านั้น</th>
+        <en>4002,Password Identify [a-zA-z0-9] only.</en> 
+    </detail>
+    <detail>
+        <variable>cd_4003</variable>
+        <th>4003,ชื่อผู้เข้าใช้งาน หรือ รหัสผ่านสำหรับเข้าใช้งานไม่ถูกต้อง</th>
+        <en>4003,Username and Password Invalid.</en> 
+    </detail>
+	
+    <detail>
+        <variable>con_0000</variable>
+        <th>CON0000,ข้อความของคุณถูกส่งไปเรียบร้อย เราจะตอบคุณโดยเร็วที่สุดเท่าที่เป็นไปได้ ขอบคุณค่ะ</th>
+        <en>CON0000,Thank you. Your message has been successfully sent. We will reply you as soon as possible.</en> 
+    </detail>
+    <detail>
+        <variable>con_3001</variable>
+        <th>CON3001,คุณทำรายการไม่สำเร็จ กรุณารองทำใหม่อีกครั้งค่ะ</th>
+        <en>CON3001,Transaction not succeed Please make a new bargain again.</en> 
+    </detail>
+    
+    <detail>
+        <variable>con_3002</variable>
+        <th>CON3002,กรุณาระบุข้อมูล field ด้วยค่ะ</th>
+        <en>CON3002,Please write your field required.</en> 
+    </detail>
+    <detail>
+        <variable>con_3003</variable>
+        <th>CON3003,กรุณาระบุข้อมูลอีเมลให้ถูกต้องค่ะ</th>
+        <en>CON3003,Please write a valid email address.</en> 
+    </detail>
+    <detail>
+        <variable>con_3004</variable>
+        <th>CON3004,กรุณาระบุข้อมูล field ให้ถูกต้อง โดยห้ามใช้อักขระพิเศษด้วยค่ะ</th>
+        <en>CON3004,Please write your field by prohibiting the use of special characters.</en> 
+    </detail>
+    
+    <detail>
+        <variable>newsletter_3102</variable>
+        <th>NEWS3102,กรุณาระบุข้อมูล field ด้วยค่ะ</th>
+        <en>NEWS3102,Please write your field required.</en> 
+    </detail>
+    <detail>
+        <variable>newsletter_3103</variable>
+        <th>NEWS3103,กรุณาระบุข้อมูลอีเมลให้ถูกต้องค่ะ</th>
+        <en>NEWS3103,Please write a valid email address.</en> 
+    </detail>
+    <detail>
+        <variable>newsletter_3105</variable>
+        <th>NEWS3105,กรุณาระบุข้อมูลอีเมล และ อีเมล์ยืนยันให้เหมือนกันค่ะ</th>
+        <en>NEWS3105,Email address not match email confirm.</en> 
+    </detail>
+    <detail>
+        <variable>newsletter_3104</variable>
+        <th>NEWS3104,กรุณาระบุข้อมูล field ให้ถูกต้อง โดยห้ามใช้อักขระพิเศษด้วยค่ะ</th>
+        <en>NEWS3104,Please write your field by prohibiting the use of special characters.</en> 
+    </detail>
+    <detail>
+        <variable>news_3106</variable>
+        <th>NEWS3106,คุณได้เคยทำการสมัครับข้อมูลข่าวสารจากทางเราแล้วค่ะ หากต้องการเปลี่ยนหมวดหมู่รับข่าวสารกรุณาติดต่อเจ้าหน้าที่ค่ะ</th>
+        <en>NEWS3106,You've had your subscription to our newsletter here. To change the category for news, please contact me.</en> 
+    </detail>
+    
+    <detail>
+        <variable>news_0000</variable>
+        <th>NEWS0000,ข้อมูลของคุณถูกส่งไปเป็นที่เรียบร้อย ขอขอบคุณที่ให้ความสนใจในบริการของเรา ขอบคุณค่ะ</th>
+        <en>NEWS0000,Your information has been successfully sent. Thank you for your interest in our service.</en> 
+    </detail>
+    <detail>
+        <variable>news_3101</variable>
+        <th>NEWS3101,คุณทำรายการไม่สำเร็จ กรุณารองทำใหม่อีกครั้งค่ะ</th>
+        <en>NEWS3101,Transaction not succeed Please make a new bargain again.</en> 
+    </detail>
+    
+    <detail>
+        <variable>cd_4101</variable>
+        <th>4101,รหัสผ่านเดิมไม่ถูกต้อง</th>
+        <en>4101,The old password is incorrect.</en> 
+    </detail>
+    <detail>
+        <variable>cd_4102</variable>
+        <th>4102,รหัสผ่านยืนยันไม่ถูกต้อง</th>
+        <en>4102,The Confirm password is incorrect.</en> 
+    </detail>
+    
+    
+    
+    <!-- Response Code -->
+    
+    
+	
+	
+</language>
