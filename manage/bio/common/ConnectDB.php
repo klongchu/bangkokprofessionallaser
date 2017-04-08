@@ -3,12 +3,12 @@
 class ConnectDB {
 
     protected $_host = "localhost";
-//    protected $_user = "root";
-//    protected $_pass = "";
-//    protected $_dbname = "biotech";
-    protected $_user = "cp363952_root";
-    protected $_pass = "2hxaf9EU}W&O";
-    protected $_dbname = "cp363952_biotec";
+    protected $_user = "root";
+    protected $_pass = "";
+    protected $_dbname = "biotech";
+//    protected $_user = "cp363952_root";
+//    protected $_pass = "2hxaf9EU}W&O";
+//    protected $_dbname = "cp363952_biotec";
     protected $_conn;
     protected $_email_host = "0.0.0.0";
     protected $_email_port = "25";
