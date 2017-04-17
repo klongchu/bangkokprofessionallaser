@@ -7,7 +7,7 @@
     </head>
     <body>
         <div> 
-        <p><h2>E-Mail From Biotecitalia-thailand.com (Customer Contacts)</h2></p> 
+        <p><h2>E-Mail From bangkokprofessionallaser.com (Customer Contacts)</h2></p> 
         <p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ชื่อ  : &label1;</h3></p> 
         <p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;อีเมล์ : &label2;</h3></p> 
         <p><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เบอรโทรศัพท์ : &label3;</h3></p> 
@@ -25,9 +25,9 @@
             <tr>
                 <td> <img src="../images/logo/biotec_th.png" style="width: 50px;height:50px;"></td>
                 <td style="vertical-align: center;"> 
-                    © Biotec Italia (Thailand) 2017 | Biotec Italia (Thailand) Co.,Ltd. , 12A Floor, Siam Tower, 989 Rama I Road, Pathumwan, Bangkok 10330 Thailand.
+                    © Bangkok Professional Laser 2017 | Bangkok Professional Laser Ltd. 444 3rd Floor, Siam Square 7, Rama 1 Road, Pathumwan, Bangkok 10330 Thailand.
                     <br/>
-                    Tel : 096-826-2459 , Email : noreply@biotec-thailand.com
+                    Tel : 096-826-2459 , Email : noreply@bangkokprofessionallaser.com
                 </td>
             </tr>
         </table>
