@@ -729,18 +729,18 @@
     
     <detail>
         <variable>cont_add_l1</variable>
-        <th>บริษัท ไบโอเทคอิตาเลีย (ประเทศไทย) จำกัด</th>
-        <en>Biotec Italia (Thailand) Co.,Ltd.</en>
+        <th>Bangkok Professional Laser Ltd.</th>
+        <en>Bangkok Professional Laser Ltd.</en>
     </detail>
     <detail>
         <variable>cont_add_l2</variable>
-        <th>ชั้น 12A , อาคารสยามทาวเวอร์ </th>
-        <en>12A Floor, Siam Tower</en>
+        <th>444 ชั้น 3 , สยามสแควร์ 7 </th>
+        <en>444 3rd Floor, Siam Square 7</en>
     </detail>
     <detail>
         <variable>cont_add_l3</variable>
-        <th>989 ถนนพระราม 1, ปทุมวัน</th>
-        <en>989 Rama I Road, Pathumwan</en>
+        <th>ถนนพระราม 1, ปทุมวัน</th>
+        <en>Rama I Road, Pathumwan</en>
     </detail>
     <detail>
         <variable>cont_add_l4</variable>
