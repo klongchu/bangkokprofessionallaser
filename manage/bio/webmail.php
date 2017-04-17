@@ -57,13 +57,13 @@ ACTIVEPAGES(8);
                                         <img src="images/zcom_logo.png"/>
                                     </div>
                                     <br>
-                                    <form action="https://cpanel01wh.bkk1.cloud.z.com:2096/login/" target="_bank" class="form-horizontal form-label-left" novalidate="">
+                                    <form action="https://cpanel03wh.bkk1.cloud.z.com:2096/login/" target="_bank" class="form-horizontal form-label-left" novalidate="">
 
                                         <div class="form-group">
                                             <label class="control-label col-md-3 col-sm-3 col-xs-12" for="first-name"><?= $_SESSION["txt_email"] ?> <span class="required">*</span>
                                             </label>
                                             <div class="col-md-6 col-sm-6 col-xs-12">
-                                                <input type="text"  name="user" value="info@biotecitalia-thailand.com" class="form-control col-md-7 col-xs-12">
+                                                <input type="text"  name="user" value="info@bangkokprofessionallaser.com" class="form-control col-md-7 col-xs-12">
                                             </div>
                                         </div>
                                         <div class="form-group">
