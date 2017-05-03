@@ -38,10 +38,7 @@ slidePage("about");
 
 
 
-                                <h2><?= $_SESSION["page_about_H1"] ?></h2>
-                                <p><?= $_SESSION["page_about_D1_01"] ?></p>
-                                <p><?= $_SESSION["page_about_D1_02"] ?></p>
-                                <p><?= $_SESSION["page_about_D1_03"] ?></p>
+                            
 
                                 <h2><?= $_SESSION["page_about_H2"] ?></h2>
                                 <p><?= $_SESSION["page_about_D2_01"] ?></p>
