@@ -1,5 +1,4 @@
 <?php
-
 @session_start();
 
 include '../../../../manage/bio/common/Utility.php';
@@ -17,9 +16,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
     $util->LanguageConfig("en");
 
     $_SESSION["main_lan"] = "en";
-
 }
-
 ?>
 
 <html  dir="ltr"  data-config='{"twitter":0,"plusone":0,"facebook":0,"style":"biotec","bg_color_scroll":0}'>
@@ -40,7 +37,9 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-        <meta name="description" content="Biotec Italia produttore e distributore di macchinari estetico medicali e cosmeceutici per la cura di viso e corpo" />
+        <meta name="keywords" content="Bangkokprofessionallaser, medical devices, aesthetic equipments, cosmetic laser, medical cosmetic lasers, medical solutions, cosmeceuticals, Renlive" />
+
+        <meta name="description" content="Bangkokprofessionallaser produces and distributes medical and aesthetic devices, cosmetic and medical lasers and cosmeceuticals." />
 
         <meta name="generator" content="MYOB" />
 
@@ -70,11 +69,11 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
         <script src="http://www.biotecitalia.com/cache/widgetkit/widgetkit-78853296.js" type="text/javascript"></script>
 
-        
 
-        
 
-        
+
+
+
 
         <script type="text/javascript">
 
@@ -278,7 +277,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                 <a href="../../../../index.php">
 
-                                    <?= $_SESSION["home"] ?> 
+<?= $_SESSION["home"] ?> 
 
                                 </a>
 
@@ -288,7 +287,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                 <a href="../../../../about.php">
 
-                                    <?= $_SESSION["about"] ?>
+<?= $_SESSION["about"] ?>
 
                                 </a>
 
@@ -298,7 +297,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                 <a>
 
-                                    <?= $_SESSION["devices"] ?>
+<?= $_SESSION["devices"] ?>
 
                                 </a>
 
@@ -348,7 +347,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                 <a>
 
-                                    <?= $_SESSION["cosmeceuticals"] ?>
+<?= $_SESSION["cosmeceuticals"] ?>
 
                                 </a>
 
@@ -368,7 +367,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                         <a href="../..">
 
-                                                            <?= $_SESSION["renlive"] ?>
+<?= $_SESSION["renlive"] ?>
 
                                                         </a>
 
