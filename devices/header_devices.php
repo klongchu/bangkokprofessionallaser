@@ -111,7 +111,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
                             </div>
                         </div>
                         <div class="uk-panel toolbar-sopra-social">
-                            <a href="https://web.facebook.com/BiotecitaliaThailand" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
+                            <a href="https://web.facebook.com/bangkokprofessionallaser/?fref=ts" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
                             <a href="https://www.youtube.com" class="uk-icon-button uk-icon-youtube" target="_blank"></a>
                             <a href="https://www.pinterest.com" class="uk-icon-button uk-icon-pinterest" target="_blank"></a>
                             <a href="https://twitter.com" class="uk-icon-button uk-icon-twitter" target="_blank"></a>
