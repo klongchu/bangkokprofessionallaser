@@ -5,7 +5,7 @@ session_start();
     <head>
         <meta charset='utf-8'>
         <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
-        <title>Biotec Thailand produces and distributes medical and aesthetic devices, cosmetic and medical lasers and cosmeceuticals.</title>
+        <title>Bangkokprofessionallaser and distributes medical and aesthetic devices, cosmetic and medical lasers and cosmeceuticals.</title>
         <meta content='lab2023' name='author'>
         <meta content='' name='description'>
         <meta content='' name='keywords'>
@@ -23,7 +23,7 @@ session_start();
                             <div class='logo-icon'>
                                 <i class='icon-building'></i>
                             </div>
-                            Biotec Thailand
+                            Bangkok
                         </h1>
                     </div>
                 </div>
