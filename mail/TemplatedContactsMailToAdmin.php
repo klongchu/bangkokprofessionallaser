@@ -27,7 +27,7 @@
                 <td style="vertical-align: center;"> 
                     © Bangkok Professional Laser Ltd. 444 3rd Floor, Siam Square 7, Rama 1 Road, Pathumwan, Bangkok 10330 Thailand.
                     <br/>
-                    Tel : 096-826-2459 , Email : noreply@bangkokprofessionallaser.com
+                    Tel : 096-826-2459 , Email : info@bangkokprofessionallaser.com
                 </td>
             </tr>
         </table>
