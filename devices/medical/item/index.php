@@ -140,7 +140,7 @@ if (file_exists($logo03) and $_data[$i]['s_devices_logo03'] != '') {
                                 include '../../../manage/bio/common/social.php';
                                 $social = new social();
 
-                                $url_social = "http://www.biotecitalia-thailand.com" . "$_SERVER[REQUEST_URI]";
+                                $url_social = "http://www.bangkokprofessionallaser.com" . "$_SERVER[REQUEST_URI]";
                                 echo $social->twitter_Share_button($url_social, $_data[0]['s_devices_' . $_SESSION["main_lan"]]);
                                 echo $social->googlePlus_Share_button($url_social);
                                 echo $social->facebook_like_button($url_social, FALSE);
