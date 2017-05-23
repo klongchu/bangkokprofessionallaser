@@ -145,7 +145,7 @@ include './service/newsService.php';
                                                     if ($flg) {
                                                         echo $_data[$key]['s_detail_' . $_SESSION["main_lan"]];
                                                     }
-                                                    $link = "http://www.biotecitalia-thailand.com/news_detail.php?s_id=" . $_data[$key]['s_seq'] . "";
+                                                    $link = "http://www.bangkokprofessionallaser.com/news_detail.php?s_id=" . $_data[$key]['s_seq'] . "";
                                                     echo $social->twitter_Share_button($link, $_data[$key]['s_subject_' . $_SESSION["main_lan"]]);
                                                     echo $social->googlePlus_Share_button($link);
                                                     echo $social->facebook_like_button($link, FALSE);
