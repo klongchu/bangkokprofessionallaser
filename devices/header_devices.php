@@ -251,12 +251,12 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
                     </div>
 
 
-                    <a class="tm-logo uk-navbar-brand uk-hidden-small" href="index.php">
+                    <a class="tm-logo uk-navbar-brand uk-hidden-small" href="http://www.bangkokprofessionallaser.com/index.php">
                         <img alt="logo-biotec" src="../../images/logo/biotec_th.png" height="104" width="96" />
                     </a>
 
                     <div class="uk-navbar-content uk-navbar-center uk-visible-small">
-                        <a class="tm-logo-small" href="index.php">
+                        <a class="tm-logo-small" href="http://www.bangkokprofessionallaser.com/index.php">
                             <img alt="logo-biotec" src="../../images/logo/biotec_th.png" height="43" width="40" />
                         </a>
                     </div>
