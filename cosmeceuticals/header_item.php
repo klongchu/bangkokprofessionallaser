@@ -47,7 +47,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
 
 
-        <link href="http://www.biotecitalia.com/templates/yoo_square/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+         <link href="http://www.bangkokprofessionallaser.com/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 
         <!--
 
