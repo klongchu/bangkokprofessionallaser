@@ -185,7 +185,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                     <div class="uk-float-right"><div class="uk-panel toolbar-sopra-tel">
 
-                            Tel: <a href="tel:+66968262459">+66 096-8262459</a></div>
+                            Tel: <a href="tel:+6620057155">+66 2005 7155</a><!--<a href="tel:+66968262459">+66 096-8262459</a>--></div>
 
                         <div class="uk-panel toolbar-sopra-lingue"><div class="mod-languagestoolbar-sopra-lingue">
 

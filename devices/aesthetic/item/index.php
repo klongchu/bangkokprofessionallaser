@@ -121,8 +121,8 @@ if (file_exists($logo03) and $_data[$i]['s_devices_logo03'] != '') {
                                 <p class="subtitle"><?= $_data[0]['s_devices_' . $_SESSION["main_lan"]]; ?> </h1>
 
                             <!-- Main Detail -->
-                            <div class="breve-descrizione">
-                                <?= $_data[0]['s_device_detail_' . $_SESSION["main_lan"]]; ?>
+                            <div class="breve-descrizione" style="text-align: justify;">
+                                <?=strip_tags($_data[0]['s_device_detail_' . $_SESSION["main_lan"]]); ?>
 
                             </div> 
                             <?php

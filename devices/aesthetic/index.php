@@ -124,7 +124,7 @@ $_GET['id'] = 2;
                                                 <h3 class="uk-margin-remove">
                                                     <div class="logo">
                                                         <a href="../../devices/aesthetic/item?id=<?= $_data[$key]['id']; ?>" title="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]]; ?>">
-                                                            <img src="../../manage/bio/uploads/devices_item/<?= $_data[$key]['s_devices_icon']; ?>" alt="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]]; ?> " height="50" title="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]]; ?>" />
+                                                            <img src="../../manage/bio/uploads/devices_item/<?= $_data[$key]['s_devices_icon']; ?>" alt="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]]; ?> " height="50" title="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]]; ?>" style="height: 50px;" />
                                                         </a>
                                                     </div> 
                                                 </h3>
@@ -132,7 +132,7 @@ $_GET['id'] = 2;
                                                 <div class="uk-thumbnail uk-align-center">
                                                     <div class="immagine-teaser">
                                                         <a href="../../devices/aesthetic/item?id=<?= $_data[$key]['id']; ?>" title="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]]; ?>">
-                                                            <img src="../../manage/bio/uploads/devices_item/<?= $_data[$key]['s_devices_logo']; ?>" alt="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]] ?> " width="530" height="336" title="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]]; ?>" />
+                                                            <img src="../../manage/bio/uploads/devices_item/<?= $_data[$key]['s_devices_logo']; ?>" alt="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]] ?> " width="530" height="336" title="<?= $_data[$key]['s_devices_' . $_SESSION["main_lan"]]; ?>" style="height: 158px;" />
                                                         </a>
                                                     </div> 
                                                 </div>

@@ -47,7 +47,7 @@
                      alt="tuv-rheinland-biotecthailand" style="float: right;" />
                 <?= $_SESSION["foot_content"] ?> <br />
                 <?= $_SESSION["foot_email"] ?> : <a href="mailto:info@bangkokprofessionallaser.com">info@bangkokprofessionallaser.com</a> | 
-                <?= $_SESSION["foot_tel"] ?> :<a href="tel:+66968262459">+66 096-8262459</a> 
+                <?= $_SESSION["foot_tel"] ?> : <a href="tel:+6620057155">+66 2005 7155</a><!--<a href="tel:+66968262459">+66 096-8262459</a> -->
 
             </div>
 
