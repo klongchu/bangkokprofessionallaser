@@ -52,12 +52,12 @@ class newsletterController {
    
                 $mail = new PHPMailer(TRUE);
                 $body = $mail->getFile('../templatedEmail/Email_Temp.html');
-                $mail->Host = "cpanel01wh.bkk1.cloud.z.com";
-                $mail->Hostname = "biotecitalia-thailand.com";
+                $mail->Host = "cpanel03wh.bkk1.cloud.z.com";
+                $mail->Hostname = "bangkokprofessionallaser.com";
                 $mail->Port = 25;
                 $mail->CharSet = 'utf-8';
-                $mail->From = "noreply@biotecitalia-thailand.com";
-                $mail->FromName = "BiotecItalia Thailand";
+                $mail->From = "noreply@bangkokprofessionallaser.com";
+                $mail->FromName = "Bangkok Professional Laser";
                 $mail->Subject = $subject;
                 $mail->MsgHTML($body);
                 $mail->AddAddress($_dataTable[$key]['s_email']);

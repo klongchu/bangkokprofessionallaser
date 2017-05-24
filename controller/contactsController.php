@@ -51,12 +51,12 @@ class contactsController {
         $body = eregi_replace("&mseeage;", $_SESSION["sendmail_recieve_auto_customer"], $body);
         $body = eregi_replace("&dear;", $_SESSION["sendmail_dear"], $body);
         $body = eregi_replace("&footer;", $_SESSION["sendmail_end"], $body);
-        $mail->Host = "cpanel01wh.bkk1.cloud.z.com";
-        $mail->Hostname = "biotecitalia-thailand.com";
+        $mail->Host = "cpanel03wh.bkk1.cloud.z.com";
+        $mail->Hostname = "bangkokprofessionallaser.com";
         $mail->Port = 25;
         $mail->CharSet = 'utf-8';
-        $mail->From = "noreply@biotecitalia-thailand.com";
-        $mail->FromName = "BiotecItalia Thailand";
+        $mail->From = "noreply@bangkokprofessionallaser.com";
+        $mail->FromName = "Bangkok Professional Laser";
         $mail->Subject = $_SESSION["sendmail_recieve_auto_customer_subject"];
         $mail->MsgHTML($body);
         $mail->AddAddress("$dogoemail");
@@ -74,15 +74,15 @@ class contactsController {
         $body = eregi_replace("&label6;", $dogosubject, $body);
         $body = eregi_replace("&label7;", $dogomessage, $body);
 
-        $mail->Host = "cpanel01wh.bkk1.cloud.z.com";
+        $mail->Host = "cpanel03wh.bkk1.cloud.z.com";
         $mail->Hostname = "biotecitalia-thailand.com";
         $mail->Port = 25;
         $mail->CharSet = 'utf-8';
-        $mail->From = "noreply@biotecitalia-thailand.com";
-        $mail->FromName = "(Contacts) BiotecItalia Thailand";
-        $mail->Subject = "E-Mail From Biotecitalia-thailand.com (Customer Contacts)";
+        $mail->From = "bangkokprofessionallaser.com";
+        $mail->FromName = "(Contacts) Bangkok Professional Laser";
+        $mail->Subject = "E-Mail From Bangkok Professional Laser.com (Customer Contacts)";
         $mail->MsgHTML($body);
-        $mail->AddAddress("info@biotecitalia-thailand.com");
+        $mail->AddAddress("info@bangkokprofessionallaser.com");
         $mailcommit = $mail->Send();
     }
 
