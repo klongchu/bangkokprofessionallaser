@@ -14,7 +14,7 @@ slidePage("contacts");
         <section class="elemento-absolute-content" data-uk="grid-match {target:'> div > .uk-panel'}"><div class="">
                 <span class="uk-icon-envelope"><?= $_SESSION["cont_email"] ?>: <a href="mailto:info@bangkokprofessionallaser.com">info@bangkokprofessionallaser.com </a> 
                     <a href="mailto:info@bangkokprofessionallaser.com"></a></span> <br />
-                <span class="uk-icon-phone"><?= $_SESSION["cont_tel"] ?>: <a href="tel:+6620057155">+66 2005 7155</a><!--<a href="tel:+66968262459">+66 096-8262459</a>--></span> <br />
+                <span class="uk-icon-phone"><?= $_SESSION["cont_tel"] ?>: <a href="tel:+66968262459">+669 6826 2459</a> <a href="tel:+6620057155">+66 2005 7155</a><!--<a href="tel:+66968262459">+66 096-8262459</a>--></span> <br />
 <!--                <span class="uk-icon-print"><?= $_SESSION["cont_fax"] ?>: +66 0999 99999</span> <br /><br /> -->
                 <span class="uk-icon-map-marker"><?= $_SESSION["cont_add_l1"] ?></span> 
                 <br /><span class="spazio"><?= $_SESSION["cont_add_l2"] ?> </span>
