@@ -47,27 +47,27 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
 
 
-         <link href="http://www.bangkokprofessionallaser.com/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+         <link href="https://www.bangkokprofessionallaser.com/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 
         <!--
 
-              <link rel="stylesheet" href="http://www.biotecitalia.com/cache/widgetkit/widgetkit-7044da1b.css" type="text/css" />
+              <link rel="stylesheet" href="https://www.biotecitalia.com/cache/widgetkit/widgetkit-7044da1b.css" type="text/css" />
 
         -->
 
-        <!--<link rel="stylesheet" href="http://www.biotecitalia.com/media/mod_languages/css/template.css" type="text/css" />-->
+        <!--<link rel="stylesheet" href="https://www.biotecitalia.com/media/mod_languages/css/template.css" type="text/css" />-->
 
-<!--        <script src="http://www.biotecitalia.com/media/jui/js/jquery.min.js" type="text/javascript"></script>
+<!--        <script src="https://www.biotecitalia.com/media/jui/js/jquery.min.js" type="text/javascript"></script>
 
-        <script src="http://www.biotecitalia.com/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+        <script src="https://www.biotecitalia.com/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
 
-        <script src="http://www.biotecitalia.com/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+        <script src="https://www.biotecitalia.com/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
 
-        <script src="http://www.biotecitalia.com/media/zoo/assets/js/responsive.js?ver=20150120" type="text/javascript"></script>
+        <script src="https://www.biotecitalia.com/media/zoo/assets/js/responsive.js?ver=20150120" type="text/javascript"></script>
 
-        <script src="http://www.biotecitalia.com/components/com_zoo/assets/js/default.js?ver=20150120" type="text/javascript"></script>
+        <script src="https://www.biotecitalia.com/components/com_zoo/assets/js/default.js?ver=20150120" type="text/javascript"></script>
 
-        <script src="http://www.biotecitalia.com/cache/widgetkit/widgetkit-78853296.js" type="text/javascript"></script>-->
+        <script src="https://www.biotecitalia.com/cache/widgetkit/widgetkit-78853296.js" type="text/javascript"></script>-->
 
         <link rel="stylesheet" href="../../../templates/css/style.css" type="text/css" />
 
@@ -117,7 +117,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
 
 
-        <!--<link rel="apple-touch-icon-precomposed" href="http://www.biotecitalia.com/templates/yoo_square/apple_touch_icon.png">-->
+        <!--<link rel="apple-touch-icon-precomposed" href="https://www.biotecitalia.com/templates/yoo_square/apple_touch_icon.png">-->
 
         <style data-file="bootstrap.css"></style>
 
@@ -129,23 +129,23 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
 
 
-<!--<script src="http://www.biotecitalia.com/templates/yoo_square/warp/vendor/uikit/js/uikit.js"></script>
+<!--<script src="https://www.biotecitalia.com/templates/yoo_square/warp/vendor/uikit/js/uikit.js"></script>
 
-<script src="http://www.biotecitalia.com/templates/yoo_square/warp/js/social.js"></script>
+<script src="https://www.biotecitalia.com/templates/yoo_square/warp/js/social.js"></script>
 
-<script src="http://www.biotecitalia.com/templates/yoo_square/js/theme.js"></script>
+<script src="https://www.biotecitalia.com/templates/yoo_square/js/theme.js"></script>
 
-<script src="http://www.biotecitalia.com/templates/yoo_square/js/bgColorScroll.js"></script>-->
+<script src="https://www.biotecitalia.com/templates/yoo_square/js/bgColorScroll.js"></script>-->
 
         <script src="scripts.js"></script>
 
-        <!--<script src="http://www.biotecitalia.com/templates/yoo_square/warp/vendor/jquery/jquery-less.js"></script>
+        <!--<script src="https://www.biotecitalia.com/templates/yoo_square/warp/vendor/jquery/jquery-less.js"></script>
 
-        <script src="http://www.biotecitalia.com/templates/yoo_square/warp/vendor/jquery/jquery-rtl.js"></script>
+        <script src="https://www.biotecitalia.com/templates/yoo_square/warp/vendor/jquery/jquery-rtl.js"></script>
 
-        <script src="http://www.biotecitalia.com/templates/yoo_square/warp/vendor/less/less.js"></script>
+        <script src="https://www.biotecitalia.com/templates/yoo_square/warp/vendor/less/less.js"></script>
 
-        <script src="http://www.biotecitalia.com/templates/yoo_square/warp/js/developer.js"></script>-->
+        <script src="https://www.biotecitalia.com/templates/yoo_square/warp/js/developer.js"></script>-->
 
 
 
@@ -295,7 +295,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                     <a href="../../../devices/medical">
 
-                                                        <img src="http://www.biotecitalia.com/images/macchine/menu/menu-medicali.png" alt="<?= $_SESSION["medical"] ?>"/>
+                                                        <img src="https://www.biotecitalia.com/images/macchine/menu/menu-medicali.png" alt="<?= $_SESSION["medical"] ?>"/>
 
                                                         <span class="image-title"><?= $_SESSION["medical"] ?></span> 
 
@@ -309,7 +309,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                     <a href="../../../devices/aesthetic">
 
-                                                        <img src="http://www.biotecitalia.com/images/macchine/menu/menu-estetiche.png" alt="<?= $_SESSION["aesthetic"] ?>"/>
+                                                        <img src="https://www.biotecitalia.com/images/macchine/menu/menu-estetiche.png" alt="<?= $_SESSION["aesthetic"] ?>"/>
 
                                                         <span class="image-title"><?= $_SESSION["aesthetic"] ?></span> 
 
@@ -361,7 +361,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                                 <a href="../../../cosmeceuticals/renlive/rigenera">
 
-                                                                    <img src="http://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-rigenera.png" alt="Rigenera"/>
+                                                                    <img src="https://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-rigenera.png" alt="Rigenera"/>
 
                                                                     <span class="image-title"><?= $_SESSION["rigenera"] ?></span> 
 
@@ -375,7 +375,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                                 <a href="../../../cosmeceuticals/renlive/dry-sensitive">
 
-                                                                    <img src="http://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-dry-sensitive.png" alt="Dry Sensitive"/>
+                                                                    <img src="https://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-dry-sensitive.png" alt="Dry Sensitive"/>
 
                                                                     <span class="image-title"><?= $_SESSION["dry_sensitive"] ?></span> 
 
@@ -389,7 +389,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                                 <a href="../../../cosmeceuticals/renlive/combination-oily">
 
-                                                                    <img src="http://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-combination-oily.png" alt="Combination Oily"/>
+                                                                    <img src="https://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-combination-oily.png" alt="Combination Oily"/>
 
                                                                     <span class="image-title"><?= $_SESSION["combination_oily"] ?></span> 
 
@@ -403,7 +403,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                                 <a href="../../../cosmeceuticals/renlive/flexi">
 
-                                                                    <img src="http://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-flexi.png" alt="Flexi"/>
+                                                                    <img src="https://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-flexi.png" alt="Flexi"/>
 
                                                                     <span class="image-title"><?= $_SESSION["flexi"] ?></span> 
 
@@ -417,7 +417,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                                 <a href="../../../cosmeceuticals/renlive/bodyline">
 
-                                                                    <img src="http://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-bodyline.png" alt="Bodyline"/>
+                                                                    <img src="https://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-bodyline.png" alt="Bodyline"/>
 
                                                                     <span class="image-title"><?= $_SESSION["bodyline"] ?></span> 
 
@@ -431,7 +431,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                                 <a href="../../../cosmeceuticals/renlive/sun-care">
 
-                                                                    <img src="http://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-solari.png" alt="Sun Care"/>
+                                                                    <img src="https://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-solari.png" alt="Sun Care"/>
 
                                                                     <span class="image-title"><?= $_SESSION["sun_care"] ?></span>
 
@@ -445,7 +445,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                                                                 <a href="../../../cosmeceuticals/renlive/herbs-tea-and-supplements">
 
-                                                                    <img src="http://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-tisane.png" alt="Herbs Tea and Supplements"/>
+                                                                    <img src="https://biotecitalia-thailand.com/images/cosmeceutici/menu/menu-tisane.png" alt="Herbs Tea and Supplements"/>
 
                                                                     <span class="image-title"><?= $_SESSION["herbs"] ?></span> </a>
 
@@ -499,7 +499,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
 
 
-                    <a class="tm-logo uk-navbar-brand uk-hidden-small" href="http://www.bangkokprofessionallaser.com/index.php">
+                    <a class="tm-logo uk-navbar-brand uk-hidden-small" href="https://www.bangkokprofessionallaser.com/index.php">
 
                         <img alt="logo-biotec" src="../../../images/logo/biotec_th.png" height="104" width="96" />
 
@@ -509,7 +509,7 @@ if (!isset($_SESSION['checkSession']) || $_SESSION['checkSession'] == '' || $_SE
 
                     <div class="uk-navbar-content uk-navbar-center uk-visible-small">
 
-                        <a class="tm-logo-small" href="http://www.bangkokprofessionallaser.com/index.php">
+                        <a class="tm-logo-small" href="https://www.bangkokprofessionallaser.com/index.php">
 
                             <img alt="logo-biotec" src="../../../images/logo/biotec_th.png" height="43" width="40" />
 
